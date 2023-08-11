@@ -1,0 +1,34 @@
+body{
+    background-image: url("images/m1.jpg");
+}
+
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 33%;
+    margin-top: 5px;
+
+}
+
+input{
+    width: 270px;
+    padding: 8px;
+    font-family: 'Courier New';
+    border: 2px solid rgb(46, 207, 235);
+    outline: none;
+    font-size: 19px;
+}
+
+
+button{
+    width: 60px;
+    height: 41px;
+    border-color: rgb(46, 207, 235);
+    color: rgb(254, 255, 255);
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+    background-color: black;
+}
